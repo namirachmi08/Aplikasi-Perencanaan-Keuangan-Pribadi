@@ -1,2 +1,4 @@
-# Aplikasi-Perencanaan-Keuangan-Pribadi
-Aplikasi Perencanaan Keuangan Pribadi berbasis Microsoft Excel merupakan alat bantu untuk mencatat, mengelola, dan menganalisis keuangan secara sistematis. Aplikasi ini menyediakan pencatatan pemasukan, pengeluaran, tabungan, investasi, dilengkapi perhitungan otomatis, rekapitulasi bulanan, serta grafik sederhana untuk memantau kondisi keuangan.
+Aplikasi Perencanaan Keuangan Pribadi Kelompok E
+
+Link Spreadsheet: 
+https://docs.google.com/spreadsheets/d/1aVQtUvL6XyldL5hoW569FiUGddms6TPwZ3lLGr6h3vc/edit?usp=sharing
